@@ -1,4 +1,7 @@
 # jhipsterSampleApplication
+
+注意：如果在windows下，必须以管理员身份运行cmd，然后到目录下执行mvnw.cmd文件。
+
 This application was generated using JHipster 5.5.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.5.0](https://www.jhipster.tech/documentation-archive/v5.5.0).
 
 ## Development
