@@ -33,7 +33,7 @@
     "clientFramework": "angularX",
     "jhiPrefix": "jhi",
     "jhipsterVersion": "5.5.0",
-    "jwtSecretKey": "NmY3MzRlOGMyNmNmNDhmZWNmMzdlM2U2ODA3MzJlNzc1M2RjNDQyZWVkZjZmYWU4YTMxNjdlMmQ1M2YyZWUyMjZkNTc1NTlmODQwNjhjYzk2NzFmNzM5M2ViYTRiMmNiOWM4NTRmN2JkMWYwMDNmZTc2Mzc1Zjk2MmFhNzUxM2M="
+    "jwtSecretKey": "OW83MzRwOGUyNmZnNDhxd2VyMzdlM2U2ODA3MzJlNzc1M2trNDQyZWVkZjZxd2U4ZTMxNjdlMmQ1M2cyZWUyMjZkNTc1NTlmODQwNjhjYzk2NzF0NzM5M3V5ZTRiMmNiOWM4NTRmN2JkMWYwMDNmZTc2Mzc1Zjk2MmFhNzUxM2c="
   },
   "git-provider": "GitHub",
   "git-company": "googlezhang",
